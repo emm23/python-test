@@ -1,3 +1,1 @@
-pip install pandas==1.19.5
-pip install numpy==1.0.5
-pip install sqlalchemy==1.3.18
+python main.py
