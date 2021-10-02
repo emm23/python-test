@@ -17,7 +17,7 @@ La instalación de las dependencias se realiza utilizando el archivo llamado *re
 
 ##### Instrucciones.
 - La ejecución del programa se realiza con el comando **python main.py**.
-- Después de la ejecución aparecerá una leyenda *Escribe la ruta del archivo csv:* donde escribirá la ruta del archivo CSV. (ej. /Volumes/nuevo/Drive/colektia_evaluacion/clientes.csv).
+- Después de la ejecución aparecerá una leyenda *"Escribe la ruta del archivo csv:"* donde escribirá la ruta del archivo CSV. (ej. /Volumes/nuevo/Drive/colektia_evaluacion/clientes.csv).
 
 #### Resultado.
 
